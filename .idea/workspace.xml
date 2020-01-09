@@ -135,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578600752789</updated>
       <workItem from="1578600756741" duration="457000" />
-      <workItem from="1578601279909" duration="2541000" />
+      <workItem from="1578601279909" duration="3247000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1578601595637</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578602496349</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3 3">
+      <created>1578603998291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578603998291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,13 +183,14 @@
     <MESSAGE value="first 2" />
     <MESSAGE value="first 3" />
     <MESSAGE value="2 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 2" />
+    <MESSAGE value="3 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1578603929420">
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1578603998113">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1578603929420" />
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1578603998113" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578601284811">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
